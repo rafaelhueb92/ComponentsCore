@@ -1,0 +1,11 @@
+C:\Users\Rafael\Desktop\Projetos\Components\Components\bin\Debug\netcoreapp2.0\Components.deps.json
+C:\Users\Rafael\Desktop\Projetos\Components\Components\bin\Debug\netcoreapp2.0\Components.runtimeconfig.json
+C:\Users\Rafael\Desktop\Projetos\Components\Components\bin\Debug\netcoreapp2.0\Components.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Projetos\Components\Components\bin\Debug\netcoreapp2.0\Components.dll
+C:\Users\Rafael\Desktop\Projetos\Components\Components\bin\Debug\netcoreapp2.0\Components.pdb
+C:\Users\Rafael\Desktop\Projetos\Components\Components\obj\Debug\netcoreapp2.0\Components.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Projetos\Components\Components\obj\Debug\netcoreapp2.0\Components.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Projetos\Components\Components\obj\Debug\netcoreapp2.0\Components.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Projetos\Components\Components\obj\Debug\netcoreapp2.0\Components.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Projetos\Components\Components\obj\Debug\netcoreapp2.0\Components.dll
+C:\Users\Rafael\Desktop\Projetos\Components\Components\obj\Debug\netcoreapp2.0\Components.pdb
